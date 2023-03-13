@@ -1,0 +1,11 @@
+version: '3'
+services:
+  python3:
+    restart: always
+    build: .
+    container_name: 'docker_python3'
+    working_dir: '/root/src'
+    tty: true
+    volumes:
+      - ${SRC_PATH}:/root/src
+    image: 666666999999/python_env:tagname
