@@ -1,0 +1,163 @@
+00:00:30---->00:00:40	そうします	I will.
+00:00:40---->00:00:44	どうもお疲れさまでした	Thank you very much.
+00:00:44---->00:00:45	あ、お疲れさまです	Oh, thank you for your time.
+00:00:45---->00:00:46	お疲れさまです	thank you for your hard work
+00:00:46---->00:00:48	どうもよろしくお願いします	please treat me well
+00:00:48---->00:00:49	よろしくお願いします	please remember me
+00:00:49---->00:00:50	聞こえておりますか	Can you hear me?
+00:00:50---->00:00:52	はい、大丈夫です聞こえてます	Yes, it's okay, I can hear you.
+00:00:52---->00:00:53	ありがとうございます	Thank you.
+00:00:53---->00:00:55	すみませんお忙しい中お時間ありがとうございます	I'm sorry, sir, and thank you for your time.
+00:00:55---->00:00:57	はい、ありがとうございます	Yes, thank you.
+00:00:57---->00:01:03	すみません、そうしましたら早速問題に入らせていただければと思うんですけれども	I'm sorry, I'd like to get right into the problem.
+00:01:03---->00:01:04	はい	Yes, sir.
+00:01:04---->00:01:06	すみません、状態でちょっとお送りさせていただければ	I'm sorry, if you'll allow me to send you a few in the state.
+00:01:06---->00:01:12	多分ご平がたくさんあってしまう状態かなというふうに思っているんですけれども	I think there may be a lot of flatness in the situation.
+00:01:12---->00:01:16	あの、えっとですね、少々お待ちくださいませ	Um, well, please wait a moment.
+00:01:22---->00:01:24	お待ちください	Please wait
+00:01:27---->00:01:29	はい	Yes, sir.
+00:01:36---->00:01:38	今画面共有させていただいてもよろしいでしょうか	May I share the screen now?
+00:01:38---->00:01:40	大丈夫です、はい	I'm fine, yes.
+00:01:40---->00:01:41	はい	Yes, sir.
+00:01:41---->00:01:47	えっとですね、すみません、ご契約のご状況についてなんですけれども	I'm sorry, I'd like to talk to you about the status of your contract.
+00:01:47---->00:01:53	まず、すみません、この表に関しましては以前	First of all, I'm sorry.
+00:01:53---->00:01:56	違った部分があったので修正だけさせていただいたんですが	I just had to correct some things that were different.
+00:01:56---->00:02:04	一応10月、12月、1月と間隔で頂戴しているような状況でございまして	We have been receiving these in October, December, and January.
+00:02:04---->00:02:05	はい	Yes, sir.
+00:02:05---->00:02:17	はい、なので、流れとしましては残り投稿本数を投稿しきった状態、投稿した際に	Yes, so the flow is that you have fully posted the number of posts remaining, and when you have posted
+00:02:17---->00:02:23	残りの金額の方を頂くというような形の流れになる予定ではあったんですが	We were going to take the rest of the money.
+00:02:23---->00:02:28	その状況がこうなぜ起きてしまっているかというところなんですけれども	The question is why this situation is happening.
+00:02:28---->00:02:29	はい	Yes, sir.
+00:02:29---->00:02:39	あの、本来前もって前もって一番最初の方に後半の本数を前半に持ってきて投稿しようみたいなところを	Um, I was originally going to post the first part of the first half of the first half of the first half of the first half of the first half of the first half of the first half of the first half of the first half.
+00:02:39---->00:02:45	多分お伝えしていたところがあったにも関わらず後半、本数が減ったタイミングで	In spite of the fact that I had probably told you about some of them, in the second half, at a time when the number of them was decreasing.
+00:02:45---->00:02:52	うちの方で本数が間に合ってないというところで半額にして頂いてしまったというところが	We had to cut the price in half because we didn't have enough bottles to meet the demand.
+00:02:52---->00:02:57	金額が、本数がしっかりと年間の本数が上がっているにも関わらず	amount, even though the number of units is firmly up for the year.
+00:02:57---->00:03:02	御請求の方が遅れてしまっているという状況が今発生してしまった原因ではあるんですけれども	This is the reason for the delay in the billing process.
+00:03:02---->00:03:10	ただここに関しましては上のものとお話しさせていただきまして	However, I would like to discuss this with my superior.
+00:03:10---->00:03:15	残りお伝えしていた本数というところを投稿させていただき次第	As soon as I can post the part about the number of books I was telling you about remaining.
+00:03:15---->00:03:21	御請求の方は今後なしというところで進めさせていただければというふうに	We would like to proceed with the request without any further request.
+00:03:21---->00:03:24	上のものとお話ししておりました	I was speaking with the one above.
+00:03:24---->00:03:26	残りいくらなんですかね	How much is left?
+00:03:26---->00:03:30	本数と金額間って今どのくらいなんですかね	What is the number of units and the amount between them now?
+00:03:30---->00:03:32	ちょっとそれかわからなくて	I'm a little confused about that.
+00:03:32---->00:03:33	ありがとうございます	Thank you.
+00:03:33---->00:03:37	残りの本数が22本というところになっています	We are at the point where we have 22 bottles left!
+00:03:37---->00:03:38	はい	Yes, sir.
+00:03:38---->00:03:43	金額としては年間でご計算させていただきますと	The amount is calculated on an annual basis.
+00:03:43---->00:03:48	今2月3月というところが今こういったところのお話があったので	I've just heard about this kind of thing in February and March, so I was wondering if you could help me.
+00:03:48---->00:03:50	止まっている状況でございまして	We are in a situation where we have stopped.
+00:03:50---->00:03:51	はい	Yes, sir.
+00:03:51---->00:04:01	トータルで2月開始で1月までいただいている金額の合計が595万8,641円	The total amount we have received since the start of February through January is 5,958,641 yen.
+00:04:01---->00:04:08	年間で59万8,000円が月額として12ヶ月分いただくとすると	If we assume that 598,000 yen per year is received as a monthly fee for 12 months
+00:04:08---->00:04:12	この一番上の717万6,000円になってくるので	Since it will be 7,176,000 yen at the top of this
+00:04:12---->00:04:20	残りの金額としては121万7,359円というところが本来にはなってくるんですけれども	The remaining amount of 1,217,359 yen is the original amount.
+00:04:20---->00:04:26	ここに関してはうちの請求の連れだったりとか認識の遅れというところで	As for here, I'm with our billing, or it's just a delay in recognition.
+00:04:26---->00:04:30	これだけ遅れてしまっているという関係があるので	There is a relationship that has been delayed this long.
+00:04:31---->00:04:36	こちらに関してはうちで負担させていただければと思っています	We would be happy to pay for this.
+00:04:36---->00:04:39	いや、だからうちだと支払う金額っていくらになるんですかね	No, so what would be the amount you would pay if it were our house?
+00:04:39---->00:04:41	それが分からないです	I don't understand that.
+00:04:41---->00:04:42	はい	Yes, sir.
+00:04:42---->00:04:44	ありがとうございます	Thank you.
+00:04:44---->00:04:51	本来であればこちらの121万7,359円というところが残額にはなっています	Originally, the remaining amount was 1,217,359 yen.
+00:04:51---->00:04:54	が、でそれがどうなるんですかね	but, so what does it matter?
+00:04:55---->00:05:02	そこに関しては、本来ではお願いする形になるんですが	As for that, we would normally be asking for a favor.
+00:05:02---->00:05:07	うちの管理不足のせいでこういった形になってしまっていると思うので	I think it's our lack of management that has led to this.
+00:05:07---->00:05:10	ここに関してはうちもちで持たせていただいて	We'll be happy to hold our own here.
+00:05:10---->00:05:12	残りの残数だけ投稿させていただいて	I'll be happy to post the rest of the remaining numbers.
+00:05:12---->00:05:14	終了という形がいいのではないかと考えております	We think it would be better to terminate the project.
+00:05:14---->00:05:17	じゃあうちの金額はゼロってことですか、負担は	So our amount is zero, the burden is zero?
+00:05:17---->00:05:18	はい	Yes, sir.
+00:05:18---->00:05:20	その形で落としながら	While dropping in that form.
+00:05:20---->00:05:21	なるほど	I see
+00:05:21---->00:05:24	あのですね、よく分かりました	You know, I understand perfectly.
+00:05:24---->00:05:32	で、ちょっと僕がやっぱりすごく気になった点を言わせていただいても大丈夫ですかね	So, may I say something that really bothered me?
+00:05:32---->00:05:33	はい、大丈夫です	Yes, I'm fine.
+00:05:33---->00:05:37	一応今、おもちゃとの契約って本当のことを言うと	In case you're wondering, the deal with toys is true now.
+00:05:37---->00:05:41	1月以降支払う金っていうのはうちの会社にはまずなかったんですよ	There was no such thing as money paid after January in our company.
+00:05:41---->00:05:44	で、結局その辺とかって	So, in the end, that area and so on.
+00:05:45---->00:05:49	最終的に言うと僕と那須めくんでちょっとナーナーにしちゃったっていうところが	In the end, I and Nasume-kun ended up making it a bit nerdy.
+00:05:49---->00:05:53	一番まずかったのかなっていうところがちょっと聞いてて思ったところなんですけども	I was wondering if that was the worst part of it all.
+00:05:53---->00:05:55	あともう1つ言っちゃうと	I'll tell you one more thing.
+00:05:55---->00:05:59	やっぱりうちクライアントの方になっちゃうんで	I'm still on the client side.
+00:05:59---->00:06:05	そこに対してやっぱりその何だろうな金額を結局勝手に決められるっていうのは	I wonder what it means to be able to decide the amount of money to spend.
+00:06:05---->00:06:11	非常にやっぱりビジネス上であってナーナーであってもやっぱりやっちゃいけないことだと思うんですね	I think it's a very bad thing to do, even if it's for business and even if it's for Nanaa.
+00:06:11---->00:06:14	その辺の2点がやっぱりちょっと引っかかっちゃって	I'm still a little stuck on those two points.
+00:06:14---->00:06:19	僕の方としてはどうなのかなっていう形でちょっといろいろと1-2-1とかその辺とかの	I'm not sure how I would feel about a 1-2-1 or something like that.
+00:06:19---->00:06:22	会社としてちょっと難しいのかなって思って	I just thought it might be a little difficult as a company.
+00:06:22---->00:06:26	今止めさせてもらった次第であります	I have just had to stop it.
+00:06:28---->00:06:32	僕は正直なこと言えばあと22回投稿残ってるんですよね	I have 22 more posts left if I'm honest.
+00:06:32---->00:06:38	そこに対しては金額って22回投稿すると実際はいくらなんですか60万円くらいなんですか	How much is the amount actually for 22 submissions, or is it about 600,000 yen?
+00:06:39---->00:06:47	そうですね59万8000円で30本でいただいているので	Yes, we are receiving it in 30 pieces for $598,000.
+00:06:47---->00:06:51	30個計算すると	30 calculations.
+00:06:58---->00:07:02	43万8000円533円になります	It will be 438,000 yen 533 yen
+00:07:02---->00:07:07	分かりました今現状請求書をもらっているのは1月までですよね	I understand that you are currently receiving invoices until January.
+00:07:07---->00:07:12	ですよねなので2月3月でどういう形でやるか	So, how will we do it in February and March?
+00:07:12---->00:07:21	2月3月分で60万円ちょっとうちの会社に請求していただいて22本やっていただくのが多分いいんじゃないかなと思います	I think it would probably be a good idea for you to charge our company a little over 600,000 yen for February and March and do 22 of them.
+00:07:23---->00:07:28	多分それが僕と夏部くんに約束した話だったと思うんで	Maybe that was the story I promised to Natsubu-kun, so...
+00:07:28---->00:07:33	それ何言ってるかっていうと2月末中旬って話をしてたので	What I meant by that is that I was talking about the middle of the end of February, so...
+00:07:33---->00:07:37	ぽっかり1ヶ月と半分くらい開いてるんですよね大体が	It's been open for a month and a half, mostly.
+00:07:37---->00:07:42	そこで1月分のところで半分消化してもらったと思うんで	So I think I got half of it digested there for January.
+00:07:42---->00:07:45	2月分丸々1本っていう形でうちの会社に3月	I'm going to send one for the whole month of February to my company in March.
+00:07:45---->00:07:47	2月は0	February: 0
+00:07:47---->00:07:53	2月を0にして多分3月請求としてこれから残り22本出していただくという形で	We will set February as zero and probably bill March, and ask you to submit the remaining 22 from now on.
+00:07:53---->00:07:57	60万円請求していただく形っていう形でどうですかね	How about we ask for 600,000 yen?
+00:07:57---->00:07:59	ありがとうございますその形で	Thank you, in that form.
+00:07:59---->00:08:04	その形で一応22本だと43万8000円になるんですが	22 in that form, in case you're wondering, would be $438,000.
+00:08:04---->00:08:06	それこそ違いますそうじゃなくて	That's precisely the difference.
+00:08:06---->00:08:12	これは僕の中での夏部くんとの約束だったんでいいですそこは	This was a promise I made to Natsubu-kun, so I'm fine with that.
+00:08:12---->00:08:14	ありがとうございます	Thank you.
+00:08:14---->00:08:21	いきなり120っていう数字がすごく僕の中で信憑すらなくて60だったよなって思った時に	When I suddenly felt that the number 120 was not even credible to me, and that it was 60.
+00:08:21---->00:08:25	ちょっとそこが何とかずれてるんだろうなっていうことと	And that I think that's a little bit off somehow.
+00:08:25---->00:08:30	やっぱり今先ほど言ってた2件の件ですねっていうところがちょっと気になってたんで	I was wondering about the two cases you mentioned earlier.
+00:08:30---->00:08:33	今日お持ちさんお話させてもらった次第ですなので	I spoke with Mr. Otaisan today, so...
+00:08:33---->00:08:36	2月はちょっと多分請求0になっちゃうと思うんですけども	I'll probably bill zero for February a little bit.
+00:08:36---->00:08:39	3月に残り22本請求して	22 remaining claims in March.
+00:08:39---->00:08:41	多分4月までまたがっちゃうと思うんですけども	I think it will probably span until April.
+00:08:41---->00:08:48	3月分として22本請求していただいて60万円ちょっと請求ください	Please bill me for 22 invoices for March, and please bill me for a little over 600,000 yen.
+00:08:48---->00:08:50	知りかまりました	I've learned that ...
+00:08:50---->00:08:56	という形でちょっと今回に関しては落としどころとしてはこんな感じなんじゃないかなと思うんですけど大丈夫ですかね	I think this is the best way to go about it, but I hope it's okay.
+00:08:56---->00:08:58	はい本当にありがとうございます	Yes thank you so much!
+00:08:58---->00:08:59	いやいやこちらこそ	Oh, no, no, no, no, it's me.
+00:08:59---->00:09:02	じゃあすいませんちょっとまた後ほどそうですね	I'll see you later.
+00:09:02---->00:09:05	何かしらのドキュメント送っていただけないですか	Could you please send me some kind of document?
+00:09:05---->00:09:10	2月0で3月60万円請求させていただきますで残り22本投稿させてもらいますっていうことを	I'm going to charge you 0 in February and 600,000 in March, and I'm going to post the remaining 22.
+00:09:10---->00:09:14	ちゃんとしっかり書いといたら何かで残しておいた方がいいかなと思っていて	I just thought if I wrote it down properly and well, I might as well leave it in something.
+00:09:14---->00:09:17	そうですねお話し合いさせていただいた記録としてってことですよね	Yes, I mean as a record of our discussion.
+00:09:17---->00:09:18	そうですねはい	that's so, yes
+00:09:20---->00:09:29	では記載させていただく場面としては一応2月分が0円で3月分が残り22本で	Now, let me describe the situation, in case you're wondering, we have zero for February and 22 left for March.
+00:09:29---->00:09:33	ご請求が59万8000円というところで契約の終了というところで	The contract was terminated at the point where the bill was 598,000 yen.
+00:09:33---->00:09:35	所有作成させていただいてもよろしいでしょうか	May I create a property for you?
+00:09:35---->00:09:37	お願いしますそれではい	Please.
+00:09:37---->00:09:39	はいかしこまりました	Yes, sir.
+00:09:39---->00:09:44	そうしましたらすいません今後についてなんですけれども残りの投稿が終了次第	In that case, I'm sorry, about the future, but as soon as I finish the rest of my post, I'll be back to you.
+00:09:44---->00:09:48	3本もご相談ご報告させていただければと思っているんですが	I'd be happy to discuss three of them with you and report back.
+00:09:48---->00:09:51	そちらもすすめさせていただいてもよろしいでしょうか	May I recommend that you do the same?
+00:09:51---->00:09:54	どういう形になるかわからないんですけども	I'm not sure how it will turn out.
+00:09:54---->00:09:59	とりあえずその数値の報告っていうのは実際どういうものかわからないんで	At any rate, I don't know what the report of these figures actually means, so I'm not sure what to expect.
+00:09:59---->00:10:05	その辺とかもちょっとドキュメントでこんなことをやりますよっていうのを書いていただければ	If you could write a little documentation of what you are going to do in that area as well.
+00:10:05---->00:10:12	僕自分の方でぜひはちゃんとしっかり返答はさせていただきたいと思うのでよろしくお願いします	I'd be happy to respond to you myself, please.
+00:10:12---->00:10:17	かしこまりましたではご国会の内容というところですね文明でお送りさせていただいて	All right, then, I'll send you the details of your meeting in a civilized manner, and we'll get back to you as soon as we can.
+00:10:17---->00:10:19	必要かどうかというところをご検討いただくという形で	We will ask you to consider whether it is necessary or not.
+00:10:19---->00:10:21	はい大丈夫です	Yes, I'm fine.
+00:10:21---->00:10:23	かしこまりました	Yes, sir.
+00:10:23---->00:10:29	また1-1の方とのお話に関しましてはどうする形がよろしいでしょうか	Also, what would be the best way to talk to the 1-1 person?
+00:10:29---->00:10:34	そうですねちょっと一応本件の経緯っていうのは一度境の方にも共有しまして	Yes, I have shared the background of this case with the border agency.
+00:10:34---->00:10:39	また私の方からアクションについてご連絡させていただければと思いますので	I would be happy to contact you again to discuss the action.
+00:10:40---->00:10:46	かしこまりましたそちらに関しましては4月上旬ほどにお話いただけるような形で	We will be able to talk to you about this in early April.
+00:10:46---->00:10:48	そうですねとりあえずはいあの	Yes, for the time being, yes.
+00:10:48---->00:10:51	まあ今日あったことってことに関してはとりあえずお伝えはするつもりなので	Well, as for what happened today, I'm going to tell you anyway.
+00:10:51---->00:10:53	はい大丈夫ですよ	Yes, it's okay.
+00:10:53---->00:10:55	かしこまりましたありがとうございます	Yes, sir, thank you very much.
+00:10:55---->00:10:56	すいません	sorry
+00:10:56---->00:11:03	でははい今取り急ぎですねここの件に関しまして処理をお越しさせていただきまして	Well then, let me take care of this matter right away.
+00:11:03---->00:11:07	今本日が30日かと思いますので	I think this date is the 30th now, so
+00:11:07---->00:11:11	もう遅くとも今週中に土日になってしまわないように	I don't want it to be Saturday or Sunday by the end of this week at the latest anymore.
+00:11:11---->00:11:14	今日はすで処理の方を作成させて	Let me create a processing person today.
+00:11:14---->00:11:19	別に来週いっぱいとかで大丈夫なんだよ特に送ろうとしたら急ぎはしないんで	I'm fine with it being the end of next week or whatever, especially if you try to send it, I'm not in a hurry.
+00:11:19---->00:11:24	はい大丈夫ですよ本当にあの申し上げの方で多分スピード感で合わせますんで	Yes, it's okay, I'll probably match the speed with the person who made the offer.
+00:11:25---->00:11:29	ありがとうございますでは週明けにお送りさせていただけるように準備させていただきますので	Thank you very much, and we will be ready to send it to you later in the week.
+00:11:29---->00:11:30	お願いします	please
+00:11:30---->00:11:32	よろしくお願いいたします	please treat me well
+00:11:32---->00:11:34	よろしくお願いしますどうもお知らせします	I look forward to working with you.
+00:11:34---->00:11:35	よろしくお願いいたします	please treat me well
+00:11:35---->00:11:37	はいお時間ありがとうございます失礼いたします	Thank you for your time.

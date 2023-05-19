@@ -1,0 +1,24 @@
+<html>
+	<head>
+	<title>広告タグ原稿生成ツール</title>
+    <meta charset="UTF=8">
+	</head>
+	
+	<body>
+	    <h1>Web　Storage test</h1>
+        <textarea id="tbox" row="5" cols="60"></textarea>
+        <script type="text/javascript" >
+            const tbox= document.getElementById('tbox')
+
+            if (localStorage['tbox']) {
+                tbox.value=localStorage['tbox']
+            }
+
+            tbox.onkeydown = function (e){
+                localStorage['tbox'] = tbox.value
+            }
+
+        </script>
+
+ 	</body>
+</html>
